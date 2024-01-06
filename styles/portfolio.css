@@ -7,6 +7,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200;
       
 }
 .nav-title{
@@ -43,4 +44,18 @@ nav a {
 
 
 
+}
+/* Header related stylee */
+.header{
+    background-color: #fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px 150px ;
+    display: flex;
+    align-items: center;
+
+}
+.profile-pic{
+    width: 300px;
+    height: 500px;
 }
